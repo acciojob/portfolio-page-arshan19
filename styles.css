@@ -1,2 +1,10 @@
-
+#image{
+	width : 200px;
+	height: 200px;
+}
+#skills{
+	border: 2px solid black;
+	padding: 10px
+	
+}
 /* Your CSS Code here. */
